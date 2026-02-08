@@ -5,6 +5,6 @@ scikit-learn
 librosa==0.10.1
 praat-parselmouth
 pydub
-audiorecorder
 soundfile
+audiorecorder
 matplotlib
