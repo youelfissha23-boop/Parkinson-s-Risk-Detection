@@ -8,4 +8,4 @@ pydub
 soundfile
 audiorecorder
 matplotlib
-PyAudio‑0.2.13‑cp311‑cp311‑win_amd64.whl
+PyAudio-0.2.14-cp313-cp313-win_amd64.whl
