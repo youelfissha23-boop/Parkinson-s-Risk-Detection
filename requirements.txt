@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 scikit-learn
-librosa
+librosa==0.10.1
 praat-parselmouth
 pydub
 audiorecorder
